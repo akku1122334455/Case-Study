@@ -1,2 +1,2 @@
-# Case-Study
-case study on mcdonalds dataset 
+# CaseStudy-mcdonalds
+case study on mcdonalds dataset <br>-Akanksha Lanjewar
